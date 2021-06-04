@@ -1,5 +1,8 @@
 # expenses
 
+## Result Project
+![capa](https://github.com/lucasrbezerra/expenses-vuejs/blob/master/public/capa.png?raw=true)
+
 ## Project setup
 ```
 yarn install
